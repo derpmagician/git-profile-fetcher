@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar {
+  padding: 20px;
+  background-color: #5b6a88;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.cardcontent {
+  background-color: #282c34;
+  display: flex;
+  justify-content: center;
+}
